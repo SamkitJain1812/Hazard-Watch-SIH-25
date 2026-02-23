@@ -2,7 +2,6 @@
 
 An AI-powered, crowdsourced ocean hazard reporting platform designed to improve coastal safety and disaster preparedness through real-time monitoring and community participation.
 
----
 
 ## 📌 Overview
 
@@ -10,7 +9,6 @@ This platform enables citizens to report ocean hazards using geotagged text, ima
 
 By integrating citizen reports, social media insights, and official datasets (e.g., INCOIS), the platform enhances situational awareness for authorities and empowers communities to act as first responders.
 
----
 
 ## 🚀 Key Features
 
@@ -21,7 +19,6 @@ By integrating citizen reports, social media insights, and official datasets (e.
 - 📶 Offline-first functionality for low-connectivity regions
 - 🔗 Integration with official ocean and weather data sources
 
----
 
 ## 🛠️ Tech Stack (Example)
 
@@ -31,7 +28,6 @@ By integrating citizen reports, social media insights, and official datasets (e.
 - AI/NLP: Python (NLTK / Transformers)
 - Maps: Google Maps API / Leaflet
 
----
 
 ## 🎯 Objectives
 
@@ -40,7 +36,6 @@ By integrating citizen reports, social media insights, and official datasets (e.
 - Strengthen collaboration between citizens and authorities
 - Reduce loss of life and property during ocean hazard events
 
----
 
 ## 🌍 Impact
 
@@ -48,7 +43,6 @@ By integrating citizen reports, social media insights, and official datasets (e.
 - **Economic:** Reduces recovery costs through early detection  
 - **Environmental:** Supports sustainable coastal management  
 
---
 
 ## 📈 Future Enhancements
 
@@ -56,9 +50,3 @@ By integrating citizen reports, social media insights, and official datasets (e.
 - SMS alert system for remote communities
 - Government dashboard with analytics reports
 - Mobile app deployment (Android/iOS)
-
----
-
-## 📄 License
-
-This project is developed for academic and innovation purposes (SIH Submission).
