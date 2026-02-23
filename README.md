@@ -48,7 +48,7 @@ By integrating citizen reports, social media insights, and official datasets (e.
 - **Economic:** Reduces recovery costs through early detection  
 - **Environmental:** Supports sustainable coastal management  
 
----
+--
 
 ## 📈 Future Enhancements
 
@@ -56,13 +56,6 @@ By integrating citizen reports, social media insights, and official datasets (e.
 - SMS alert system for remote communities
 - Government dashboard with analytics reports
 - Mobile app deployment (Android/iOS)
-
----
-
-## 🤝 Contribution
-
-Contributions are welcome!  
-Fork the repository, create a new branch, and submit a pull request.
 
 ---
 
