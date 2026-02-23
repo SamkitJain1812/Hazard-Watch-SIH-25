@@ -1,4 +1,4 @@
-# 🌊 Coastal Hazard Reporting Platform
+# 🌊 Hazard Watch - Coastal Hazard Reporting Platform
 
 An AI-powered, crowdsourced ocean hazard reporting platform designed to improve coastal safety and disaster preparedness through real-time monitoring and community participation.
 
