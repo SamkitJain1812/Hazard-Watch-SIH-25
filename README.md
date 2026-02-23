@@ -15,6 +15,9 @@ By integrating citizen reports, social media insights, and official datasets (e.
 🔗 **Visit the Platform:**  
 [Hazard Watch](https://kgppz4uhddk2m.mocha.app/)
 
+## 🎥 Prototype Demo Video
+
+[▶️ Watch Demo](https://youtu.be/GcOl4uE9usE)
 
 ## 🚀 Key Features
 
