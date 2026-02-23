@@ -10,6 +10,12 @@ This platform enables citizens to report ocean hazards using geotagged text, ima
 By integrating citizen reports, social media insights, and official datasets (e.g., INCOIS), the platform enhances situational awareness for authorities and empowers communities to act as first responders.
 
 
+## 🌐 Live Website
+
+🔗 **Visit the Platform:**  
+[Hazard Watch](https://kgppz4uhddk2m.mocha.app/)
+
+
 ## 🚀 Key Features
 
 - 📍 Geotagged hazard reporting (text, images, videos)
