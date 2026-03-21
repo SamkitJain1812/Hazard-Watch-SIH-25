@@ -2,7 +2,6 @@
 
 An AI-powered, crowdsourced ocean hazard reporting platform designed to improve coastal safety and disaster preparedness through real-time monitoring and community participation.
 
-
 ## 📌 Overview
 
 This platform enables citizens to report ocean hazards using geotagged text, images, or videos. The system processes reports using Artificial Intelligence (AI) and Natural Language Processing (NLP) to detect trends and visualize hazard hotspots on an interactive dashboard.
