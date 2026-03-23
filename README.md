@@ -9,7 +9,6 @@ This platform enables citizens to report ocean hazards using geotagged text, ima
 By integrating citizen reports, social media insights, and official datasets (e.g., INCOIS), the platform enhances situational awareness for authorities and empowers communities to act as first responders.
 
 
-
 ## 🌐 Live Website
 
 🔗 **Visit the Platform:**  
